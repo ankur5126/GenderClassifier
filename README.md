@@ -12,4 +12,5 @@ Usage
 
 python classifier.py
 
+MIT License
 
